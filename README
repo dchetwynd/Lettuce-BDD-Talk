@@ -1,1 +1,5 @@
 This is a talk that I gave at the Python Sheffield (@pysheff) user group on 31/01/2012 on Behaviour-Driven-Development in Python using Lettuce. Included are some very simple Lettuce examples on addition, multiplication, factorials and palindromes.
+
+More information can be found on the Lettuce BDD framework from
+http://github.com/gabrielfalcao/lettuce
+or lettuce.it
